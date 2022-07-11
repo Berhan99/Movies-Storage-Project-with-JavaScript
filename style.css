@@ -1,0 +1,45 @@
+#form-info{
+    padding: 15px;
+    background-image: url("/grunge-warning-line-background-2.png");
+}
+.form-group{
+    padding: 0.5rem;
+}
+.form-group label{
+    border: 1px solid #ffc107;
+    box-shadow: 3px 3px #ffc107;
+}
+#submit-btn{
+    margin: 1rem 0 1rem 1rem;
+    border: 1px solid black;
+    box-shadow: 5px 5px;
+    width: 150px;
+}
+input{
+    margin-top: 0.5rem;
+}
+input[placeholder]{
+    padding: 0.5rem 0 0.5rem 1rem;
+}
+label{
+    margin-bottom: 0.5rem;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+thead{
+    background-color:#ffc107 ;
+}
+#films .btn-danger{
+    width: auto;
+    height: 50px;
+    text-align: center;
+}
+
+#delete-all{
+    height: 50px;
+    width: auto;
+    margin: 1rem;
+}
+    
