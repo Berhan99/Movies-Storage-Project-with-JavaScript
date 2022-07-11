@@ -1,0 +1,11 @@
+.container{
+    position: absolute;
+}
+
+#movies-card{
+    position: absolute;
+}
+#movie-table{
+    position: relative;
+    max-width: auto;
+}
