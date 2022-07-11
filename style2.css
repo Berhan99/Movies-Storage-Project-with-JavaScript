@@ -1,0 +1,28 @@
+.container{
+    position: absolute;
+    
+}
+ 
+
+#movies-card{
+    position: absolute;
+    max-width: auto;
+        
+}
+
+#movie-table{
+    position: relative;
+    max-width: fit-content;
+    
+} 
+
+#input-card{
+    position: relative;
+    max-width: auto;
+    
+}
+
+img{
+    width: 300px;
+    height: 100%;
+}
